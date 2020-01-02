@@ -17,7 +17,7 @@ Time between lab ends and Exam - What you should do when the labs has ended 
 Exam Day- For what all challenges you should be prepared for.
 
 
-![Macbook]({{site.baseurl}}/assets/img/battle.jpeg)
+![Macbook]({{site.baseurl}}/assets/img/battle.jpeg){: .align-center}
 
 ### Pre-Enrollment: 
 
@@ -27,7 +27,7 @@ Also, I didn't want to leave anything untouched before taking labs. I tried unde
 
 Note: I would highly recommend two telegram groups where people are so helpful that if you get stuck, you can ask them and someone would reply for sure. Please find link in the Links section.I had just shared one group link because other one is private.
 
-![Macbook]({{site.baseurl}}/assets/img/sixhours.png)
+![Macbook]({{site.baseurl}}/assets/img/sixhours.png){: .align-center}
 
 By now, I knew that "Enumeration is the key", "Google is always your best friend", and "It's all about dedication, Hard work, and Patience".
 
