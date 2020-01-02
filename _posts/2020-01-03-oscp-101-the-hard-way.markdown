@@ -111,63 +111,70 @@ Special Mentions - My brother-  Ajay Srivastava, Prakhar Prasad Bhaiya, Push
 
 [https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob](https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob)
 
-https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html#section-13-port-redirection-and-pivoting
+[https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html#section-13-port-redirection-and-pivoting](https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html#section-13-port-redirection-and-pivoting)
 
-https://www.abatchy.com/2017/02/oscp-like-vulnhub-vms
+[https://www.abatchy.com/2017/02/oscp-like-vulnhub-vms](https://www.abatchy.com/2017/02/oscp-like-vulnhub-vms)
 
-https://github.com/0x4D31/awesome-oscp
+[https://github.com/0x4D31/awesome-oscp](https://github.com/0x4D31/awesome-oscp)
 
-https://scund00r.com/all/oscp/2018/02/25/passing-oscp.html#interactive-shell
+[https://scund00r.com/all/oscp/2018/02/25/passing-oscp.html#interactive-shell](https://scund00r.com/all/oscp/2018/02/25/passing-oscp.html#interactive-shell)
 
 
-### Telegram Group - https://t.me/OSCP_OSCE
+### Telegram Group - [https://t.me/OSCP_OSCE](https://t.me/OSCP_OSCE)
 
 
 ### Priviledge Escalation and cheat sheets:-
 
 ### Linux Priv Esc-:
 
-https://github.com/lucyoa/kernel-exploits
+[https://github.com/lucyoa/kernel-exploits](https://github.com/lucyoa/kernel-exploits)
 
-https://github.com/SecWiki/linux-kernel-exploits
+[https://github.com/SecWiki/linux-kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits)
+
+[https://github.com/rebootuser/LinEnum](https://github.com/rebootuser/LinEnum)
+
+[https://github.com/mzet-/linux-exploit-suggester](https://github.com/mzet-/linux-exploit-suggester)
+
+[https://github.com/jondonas/linux-exploit-suggester-2](https://github.com/jondonas/linux-exploit-suggester-2)
+
 
 ### Windows Priv Esc-:
 
-https://sevrosecurity.com/checklists/windows-priv-esc/
+[https://sevrosecurity.com/checklists/windows-priv-esc/](https://sevrosecurity.com/checklists/windows-priv-esc/)
 
-http://virgil-cj.blogspot.com/2018/02/escalation-time.html
+[http://virgil-cj.blogspot.com/2018/02/escalation-time.html](http://virgil-cj.blogspot.com/2018/02/escalation-time.html)
 
-https://github.com/rasta-mouse/Sherlock
+[https://github.com/rasta-mouse/Sherlock](https://github.com/rasta-mouse/Sherlock)
 
-https://github.com/SecWiki/windows-kernel-exploits
+[https://github.com/SecWiki/windows-kernel-exploits](https://github.com/SecWiki/windows-kernel-exploits)
 
-https://github.com/AlessandroZ/BeRoot
+[https://github.com/AlessandroZ/BeRoot](https://github.com/AlessandroZ/BeRoot)
 
-https://github.com/frizb/Windows-Privilege-Escalation
+[https://github.com/frizb/Windows-Privilege-Escalation](https://github.com/frizb/Windows-Privilege-Escalation)
 
-https://hackingandsecurity.blogspot.com/2017/09/oscp-windows-priviledge-escalation.html
+[https://hackingandsecurity.blogspot.com/2017/09/oscp-windows-priviledge-escalation.html](https://hackingandsecurity.blogspot.com/2017/09/oscp-windows-priviledge-escalation.html)
 
-https://toshellandback.com/2015/11/24/ms-priv-esc/
+[https://toshellandback.com/2015/11/24/ms-priv-esc/](https://toshellandback.com/2015/11/24/ms-priv-esc/)
 
-https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_windows.html
+[https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_windows.html](https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_windows.html)
 
 
 ### Cheat Sheets and other Useful Links:
 
-http://www.0daysecurity.com/penetration-testing/enumeration.html
+[http://www.0daysecurity.com/penetration-testing/enumeration.html](http://www.0daysecurity.com/penetration-testing/enumeration.html)
 
-https://ired.team/offensive-security-experiments/offensive-security-cheetsheets
+[https://ired.team/offensive-security-experiments/offensive-security-cheetsheets](https://ired.team/offensive-security-experiments/offensive-security-cheetsheets)
 
-https://www.greyhathacker.net/?p=500
+[https://www.greyhathacker.net/?p=500](https://www.greyhathacker.net/?p=500)
 
-https://netsec.ws/?p=337
+[https://netsec.ws/?p=337](https://netsec.ws/?p=337)
 
-https://github.com/doffensive/wired-courtyard
+[https://github.com/doffensive/wired-courtyard](https://github.com/doffensive/wired-courtyard)
 
-https://github.com/sagishahar/lpeworkshop
+[https://github.com/sagishahar/lpeworkshop](https://github.com/sagishahar/lpeworkshop)
 
-https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/
+[https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/](https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/)
 
 
 
-https://www.youracclaim.com/badges/3d792a25-00f2-4c61-b9ad-7d2b65d383d2/public_url
+[https://www.youracclaim.com/badges/3d792a25-00f2-4c61-b9ad-7d2b65d383d2/public_url](https://www.youracclaim.com/badges/3d792a25-00f2-4c61-b9ad-7d2b65d383d2/public_url)
