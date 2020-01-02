@@ -27,7 +27,7 @@ Also, I didn't want to leave anything untouched before taking labs. I tried unde
 
 Note: I would highly recommend two telegram groups where people are so helpful that if you get stuck, you can ask them and someone would reply for sure. Please find link in the Links section.I had just shared one group link because other one is private.
 
-![Macbook]({{site.baseurl}}/assets/img/sixhours.png){: .align-center}
+![Macbook]({{site.baseurl}}/assets/img/sixhours.png){: .center-image }
 
 By now, I knew that "Enumeration is the key", "Google is always your best friend", and "It's all about dedication, Hard work, and Patience".
 
@@ -48,7 +48,7 @@ My Target for 2nd week was to do 1 boxes every day because now boxes which will 
 
 Also, Make Sure you do Post Exploitation while rooting the machines because I didn't do Post Exploitation in my first week so I had to do all the machines again and complete post expoitation, that took another two days.
 
-![Macbook]({{site.baseurl}}/assets/img/whoami.jpeg)
+![Macbook]({{site.baseurl}}/assets/img/whoami.jpeg){: .center-image }
 
 ### Usage of Metasploit-: 
 I did Use metasploit on few machines but I just marked them and when My lab was ending and making sure that I was able to root those with an intended way. Use Metasploit if it is needed but Make sure you do those machines again with the intended way. Metasploit is powerful and this will be always there with you.
@@ -71,7 +71,7 @@ The basic Takeaway from above is just be clear with your goals. Set Small small 
 
 I had completed my labs with great count of machines pawned. I scheduled my exam a week after. I planned this week of mine in such a way that I relax also and revise my notes too, including practicing buffer overflow. I planned to do Buffer Overflow everyday and my final goal was to complete buffer overflow in less than 15 mins when I was practicing, the reason to this was since there were not much BadChars present in the vulnerable applications I found online. The idea behind doing this was I wanted to keep atleast 5–10mins in exam for BadChars. By the end of the week, I was able to complete buffer overflow in 12mins and that was quite great. I revised all my notes I had made since last two months(i.e Notes from Pre Enrollment and also from Post). I went through IPPSEC's OSCP playlist again and saw few VulnHub machine's walkthrough along with Privilege escalation blogs. Finally, I stopped my studies two days before exam and enjoyed those two days like anything.
 
-![Macbook]({{site.baseurl}}/assets/img/keep-calm.png)
+![Macbook]({{site.baseurl}}/assets/img/keep-calm.png){: .center-image }
 
 
 ### The Big Day- The Exam:{: .text-center}
@@ -97,7 +97,7 @@ Basic Takeaways from here:-
 2. Highlight and mark every important details like flags, IP address, terminal commands and the like.
 Finally , I got my Results . I got a mail from offensive security in the morning 4:26am. I had literally woke everyone up. I called everyone at 5 itself. For a moment I could not actually believe that I have got my results.Well, Everything went well.I would like to Thank offensive security team for this amazing course.
 
-![Macbook]({{site.baseurl}}/assets/img/index.jpeg)
+![Macbook]({{site.baseurl}}/assets/img/index.jpeg){: .center-image }
 
 
 Finally, I have tried to include every possible meaningful experience of mine and the challenges I faced in this journey.
@@ -176,5 +176,5 @@ Special Mentions - My brother-  Ajay Srivastava, Prakhar Prasad Bhaiya, Push
 [https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/](https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/)
 
 
-### Verify my OSCP Badge Here:{: .text-center}
+### Verify my OSCP Badge Here:{: .center-image }
 [https://www.youracclaim.com/badges/3d792a25-00f2-4c61-b9ad-7d2b65d383d2/public_url](https://www.youracclaim.com/badges/3d792a25-00f2-4c61-b9ad-7d2b65d383d2/public_url)
