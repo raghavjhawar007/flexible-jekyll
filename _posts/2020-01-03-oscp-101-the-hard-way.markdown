@@ -16,8 +16,9 @@ Post-Enrollment would be all about OSCP labs and exam preparations and keeping y
 Time between lab ends and Exam - What you should do when the labs has ended and your exam is a week later.
 Exam Day- For what all challenges you should be prepared for.
 
-
-![Macbook]({{site.baseurl}}/assets/img/battle.jpeg){: .align-center}
+{:refdef: style="text-align: center;"}
+![Macbook]({{site.baseurl}}/assets/img/battle.jpeg)
+{: refdef}
 
 ### Pre-Enrollment: {: .text-center} 
 
