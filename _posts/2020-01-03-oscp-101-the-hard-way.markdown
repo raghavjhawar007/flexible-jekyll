@@ -109,7 +109,7 @@ Special Mentions - My brother-  Ajay Srivastava, Prakhar Prasad Bhaiya, Push
 
 ### How To Prepare:- 
 
-<a href= "https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob"></a>
+https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob
 
 https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html#section-13-port-redirection-and-pivoting
 
