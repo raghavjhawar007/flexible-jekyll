@@ -176,5 +176,5 @@ Special Mentions - My brother-  Ajay Srivastava, Prakhar Prasad Bhaiya, Push
 [https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/](https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/)
 
 
-
+### Verify my OSCP Badge Here:
 [https://www.youracclaim.com/badges/3d792a25-00f2-4c61-b9ad-7d2b65d383d2/public_url](https://www.youracclaim.com/badges/3d792a25-00f2-4c61-b9ad-7d2b65d383d2/public_url)
