@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Save Your Social Media
-date: 2020-01-01 00:00:00 +0300
+date: 2020-01-01
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: software.jpg # Add image post (optional)
 
@@ -39,4 +39,5 @@ What to do if your account was compromised anyway? Just contact the support and 
 And Trust me this is the only way because if your account was already hacked then the hacker won't fall for some bait like phishing or anything.
 Thank you for your time.
 Please do share and Stay Safe.
+
 Any questions — Contact me on yogendra.swaroop.srivastava@gmail.com
