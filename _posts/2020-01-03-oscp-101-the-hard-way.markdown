@@ -87,8 +87,8 @@ Frankly speaking, I was not afraid even a day before, but on the exam day I was 
 5. Check Your Screenshots 1hr before ending your exam.
 6. Try Not to close terminal windows.
 7. Try Harder and Try again.
- 
-### The Report:-{: .text-center}
+
+### The Report:-
 
 You have done your exam, you have rooted required machines. Now what? OffSec gives you 24hrs to complete your report. Report is the most important part. I spent around 5–6hours to complete my report with proper proof of concepts. Please make sure you have attached every flags along with IP addresses showing that you have got access of right target machine. Highlight every important details in the report and also make sure You have written terminal commands(if any like running exploits, generating Shellcode). The most important point before sending your report is read the EXAM GUIDE carefully. Proper zipping and password protection is needed before sending your report.
 After you have send your report Just Relax and Wait for your results.
