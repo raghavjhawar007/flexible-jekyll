@@ -16,14 +16,14 @@ Post-Enrollment would be all about OSCP labs and exam preparations and keeping y
 Time between lab ends and Exam - What you should do when the labs has ended and your exam is a week later.
 Exam Day- For what all challenges you should be prepared for.
 
-![Macbook]({{site.baseurl}}/assets/img/mac.jpg)
+![Macbook]({{site.baseurl}}/assets/img/battle.jpeg)
 Pre-Enrollment: 
 I started to work for OSCP somewhere in May-June. To tell you about my basic knowledge, I was a noob when I started my journey though now also i consider myself a noob. I was learning then, I am learning now ,I ll do the same in future too. So, I had basic understanding of Networks,Linux, Python and also I knew about web application security. So was that enough to get directly enrolled to OSCP Labs?
 I read couple of blogs(which I am gonna attach in the links section and I highly recommend reading those). I started with VULNHUB's OSCP like machines. Well It was not easy for me because I didn't know the methodology and what  "Enumeration is the Key" is all about. I faced lot of issues, had to see every machines walkthroughs. But after 3–4 machines of Vulnhub, I was little comfortable with the process- the Methodology. After a week or two, I started from HTB, well it was not at all easy and I highly recommend people preparing for OSCP should go for HackTheBox. I Struggled in few machines but atleast I knew by then how should I approach, what will I do when I come across certain kind of situation. Still, One thing was missing- Confidence, I was lacking confidence whether I would be able to crack OSCP or not. By further working on the same, I started watching IPPSEC videos(and that I think if I had done that earlier It would have been more easy for me or if not easy then the process of pentesting would be clear.) After Watching his videos of OSCP playlist, I made my notes and I knew my weapons are getting ready. But Still I was missing something about which I had no Knowledge- our very own- Buffer Overflow. I was so afraid with the buffer overflow that I thought I would not do Buffer overflow machine in the exam. But everything is a mind game, Just know that mind works how you want it to work. I started searching for Buffer Overflow Blogs , videos, courses but nothing seemed working because I was facing issues to understand registers of assembly language(don't worry, it was my bad because Buffer Overflow is basic in OSCP). I locked myself in the house for three days and studied Assembly Language, Registers and Buffer Overflow, 4th day I had no doubts on Buffer Overflow. You can get clear Buffer Overflow machine in less than 1 hour.
 Also, I didn't want to leave anything untouched before taking labs. I tried understanding the concepts of Port Knocking,Pivoting, Port forwarding but you cannot understand anything unless you practice it couple of times. I read couple of blogs and followed them for Privilege Escalation in Linux and Window, to clear the approach. I had few tools ready too for privilege escalation which helped me a lot in my labs. 
 
 Note: I would highly recommend two telegram groups where people are so helpful that if you get stuck, you can ask them and someone would reply for sure. Please find link in the Links section.I had just shared one group link because other one is private.
-
+![Macbook]({{site.baseurl}}/assets/img/sixhours.png)
 By now, I knew that "Enumeration is the key", "Google is always your best friend", and "It's all about dedication, Hard work, and Patience".
 
 The basic takeaway and what I recommend is-: 
@@ -42,6 +42,8 @@ Here, I would suggest that setting short targets are better, and in the labs you
 My Target for 2nd week was to do 1 boxes every day because now boxes which will come would be little tricky. I completed my targeted, then my family visited me and I took a break for around 5 days. I started again and this time with more enthusiasm and I decided that I will try to do Big 4 boxes before my lab ends. I did three of them. The most frightening part on this journey was Windows Privilege Escalation and frankly speaking there are not much machines in the labs where you will learn privilege escalation of windows, In most machines you'll directly get privileges of the Administrator. So I decided to go through few blogs . My Lab ended on 17th September and I was able to root 35 machines in 25days. I scheduled my exam for 24th September at 2:30pm. That was a great experience, I knew my weapons, was clear with my methodology and also I was clear with my next target. I went through Ippsec videos , notes and buffer overflow.
 
 Also, Make Sure you do Post Exploitation while rooting the machines because I didn't do Post Exploitation in my first week so I had to do all the machines again and complete post expoitation, that took another two days.
+
+![Macbook]({{site.baseurl}}/assets/img/whoami.jpeg)
 
 Usage of Metasploit-: 
 I did Use metasploit on few machines but I just marked them and when My lab was ending and making sure that I was able to root those with an intended way. Use Metasploit if it is needed but Make sure you do those machines again with the intended way. Metasploit is powerful and this will be always there with you.
@@ -63,6 +65,7 @@ The basic Takeaway from above is just be clear with your goals. Set Small small 
 The Time Before Exam and After Labs-:
 
 I had completed my labs with great count of machines pawned. I scheduled my exam a week after. I planned this week of mine in such a way that I relax also and revise my notes too, including practicing buffer overflow. I planned to do Buffer Overflow everyday and my final goal was to complete buffer overflow in less than 15 mins when I was practicing, the reason to this was since there were not much BadChars present in the vulnerable applications I found online. The idea behind doing this was I wanted to keep atleast 5–10mins in exam for BadChars. By the end of the week, I was able to complete buffer overflow in 12mins and that was quite great. I revised all my notes I had made since last two months(i.e Notes from Pre Enrollment and also from Post). I went through IPPSEC's OSCP playlist again and saw few VulnHub machine's walkthrough along with Privilege escalation blogs. Finally, I stopped my studies two days before exam and enjoyed those two days like anything.
+![Macbook]({{site.baseurl}}/assets/img/keep-calm.png)
 
 
 The Big Day-The Exam:
@@ -87,6 +90,7 @@ Basic Takeaways from here:-
 1. Read Exam Guide carefully
 2. Highlight and mark every important details like flags, IP address, terminal commands and the like.
 Finally , I got my Results . I got a mail from offensive security in the morning 4:26am. I had literally woke everyone up. I called everyone at 5 itself. For a moment I could not actually believe that I have got my results.Well, Everything went well.I would like to Thank offensive security team for this amazing course.
+![Macbook]({{site.baseurl}}/assets/img/index.jpeg)
 
 
 Finally, I have tried to include every possible meaningful experience of mine and the challenges I faced in this journey.
@@ -95,7 +99,9 @@ Special Mentions - My brother-  Ajay Srivastava, Prakhar Prasad Bhaiya, Push
 
 
 Important Links-:
+
 How To Prepare:- 
+
 https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob
 https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html#section-13-port-redirection-and-pivoting
 https://www.abatchy.com/2017/02/oscp-like-vulnhub-vms
