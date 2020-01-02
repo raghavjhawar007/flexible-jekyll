@@ -335,6 +335,7 @@ progress {
   /* 2 */
 }
 
+
 /**
  * Remove the default vertical scrollbar in IE.
  */
@@ -543,6 +544,12 @@ template {
 /* Generic.Subheading */
 .highlight .gt {
   color: #9c6;
+}
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
 }
 
 /* Generic.Traceback */
