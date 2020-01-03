@@ -9,7 +9,8 @@ tags: [OSCP,Security,Pentesting,InfoSec]
 ---
 
 First of all thank you for coming here. This Blog post is about My experience in OSCP Journey. What all did I learn, Doing Hard work plus smart work, Trying Harder.
-I will be dividing this post into four sections- PRE Enrollment, POST Enrollment, mid time of labs and exam, Exam. 
+
+> I will be dividing this post into four sections- PRE Enrollment, POST Enrollment, mid time of labs and exam, Exam. 
 
 * Pre-enrollment would be all about what you should do before taking up the labs, how you should prepare for OSCP Labs.
 * Post-Enrollment would be all about OSCP labs and exam preparations and keeping your cheatsheets ready.
@@ -33,7 +34,7 @@ Also, I didn't want to leave anything untouched before taking labs. I tried unde
 
 ![Macbook]({{site.baseurl}}/assets/img/sixhours.png){: .center-image }
 
-By now, I knew that "Enumeration is the key", "Google is always your best friend", and "It's all about dedication, Hard work, and Patience".
+> By now, I knew that "Enumeration is the key", "Google is always your best friend", and "It's all about dedication, Hard work, and Patience".
 
 ### The basic takeaway and what I recommend is-: 
 * Buy Hackthebox 1 month VIP membership( This will boost your confidence and Htb is real time, you will learn a lot)
@@ -41,18 +42,19 @@ By now, I knew that "Enumeration is the key", "Google is always your best friend
 * Watch IPPSEC videos everyday before taking labs.
 * Do look buffer overflow a little.
 * Keep your weapons ready.
-Remember one thing, "Every Battle is won before it is fought". How you prepare for your goals is most important thing.
+
+> Remember one thing, "Every Battle is won before it is fought". How you prepare for your goals is most important thing.
 
 
 ### Post-Enrollment:
 
 One month before Enrolling, I worked to prepare myself for the labs. I took a short break, Enjoyed with my friends a little and Now it was time to enroll for this giant and expensive course. Mostly People advised me to go for atleast two months lab access. But Hey, I am a warrior(as Zakir Khan said- Bhai Tumhara Warrior hai),After discussing with my brother( Because he had cleared OSCP in 2013 when No HTB , vulnhub and Ippsec's page existed, He is a legend) and also with few legends in InfoSec, I decided to go for one month because I wanted to challenge myself this time. I enrolled and I got lab access on 18th August. I quickly finished the lab videos and pdf. I jumped into the labs. Well, I was not able to pawn even a single machine by the evening. I took a short break and came back, I rooted 2 machines in next few hours. I was happy. I made a prime target of rooting atleast two machines everyday for the first week and trying atleast 3 machines every day. I divided my slot of 5–5hours, and then I fell sick because I had left everything and was spending too much time on the terminal.Even after falling sick I was still trying to pawn machines. After 2 days I was okay. I started again and now working smartly i.e keeping health and labs balanced. I had rooted 15 boxes in very first week and that was quite a good progress.
 
-Here, I would suggest that setting short targets are better, and in the labs you should know one day before that what machines you are going to try the next day.
+> Here, I would suggest that setting short targets are better, and in the labs you should know one day before that what machines you are going to try the next day.
 
 My Target for 2nd week was to do 1 boxes every day because now boxes which will come would be little tricky. I completed my targeted, then my family visited me and I took a break for around 5 days. I started again and this time with more enthusiasm and I decided that I will try to do Big 4 boxes before my lab ends. I did three of them. The most frightening part on this journey was Windows Privilege Escalation and frankly speaking there are not much machines in the labs where you will learn privilege escalation of windows, In most machines you'll directly get privileges of the Administrator. So I decided to go through few blogs . My Lab ended on 17th September and I was able to root 35 machines in 25days. I scheduled my exam for 24th September at 2:30pm. That was a great experience, I knew my weapons, was clear with my methodology and also I was clear with my next target. I went through Ippsec videos , notes and buffer overflow.
 
-Also, Make Sure you do Post Exploitation while rooting the machines because I didn't do Post Exploitation in my first week so I had to do all the machines again and complete post expoitation, that took another two days.
+> Also, Make Sure you do Post Exploitation while rooting the machines because I didn't do Post Exploitation in my first week so I had to do all the machines again and complete post expoitation, that took another two days.
 
 ![Macbook]({{site.baseurl}}/assets/img/whoami.jpeg){: .center-image }
 
@@ -99,7 +101,7 @@ Frankly speaking, I was not afraid even a day before, but on the exam day I was 
 
 ### The Report:-
 
-> You have done your exam, you have rooted required machines. Now what? OffSec gives you 24hrs to complete your report. Report is the most important part. I spent around 5–6hours to complete my report with proper proof of concepts. Please make sure you have attached every flags along with IP addresses showing that you have got access of right target machine. Highlight every important details in the report and also make sure You have written terminal commands(if any like running exploits, generating Shellcode). The most important point before sending your report is read the EXAM GUIDE carefully. Proper zipping and password protection is needed before sending your report.
+You have done your exam, you have rooted required machines. Now what? OffSec gives you 24hrs to complete your report. Report is the most important part. I spent around 5–6hours to complete my report with proper proof of concepts. Please make sure you have attached every flags along with IP addresses showing that you have got access of right target machine. Highlight every important details in the report and also make sure You have written terminal commands(if any like running exploits, generating Shellcode). The most important point before sending your report is read the EXAM GUIDE carefully. Proper zipping and password protection is needed before sending your report.
 
 After you have send your report Just Relax and Wait for your results.
 
@@ -114,7 +116,8 @@ Finally , I got my Results . I got a mail from offensive security in the morni
 
 Finally, I have tried to include every possible meaningful experience of mine and the challenges I faced in this journey.
 But Before ending my blog I would like to Thank everyone who supported me throughout.
-Special Mentions - My brother-  Ajay Srivastava, Prakhar Prasad Bhaiya, Pushkar Bhaiya, Pulkit Bhaiya, Dhanajay Bhaiya, Anjana and many more.
+
+> Special Mentions - My brother-  Ajay Srivastava, Prakhar Prasad Bhaiya, Pushkar Bhaiya, Pulkit Bhaiya, Dhanajay Bhaiya, Anjana and many more.
 
 
 ### Important Links-:
@@ -189,4 +192,4 @@ Special Mentions - My brother-  Ajay Srivastava, Prakhar Prasad Bhaiya, Push
 
 
 ### Verify my OSCP Badge Here:
-[https://www.youracclaim.com/badges/3d792a25-00f2-4c61-b9ad-7d2b65d383d2/public_url](https://www.youracclaim.com/badges/3d792a25-00f2-4c61-b9ad-7d2b65d383d2/public_url)
+> [https://www.youracclaim.com/badges/3d792a25-00f2-4c61-b9ad-7d2b65d383d2/public_url](https://www.youracclaim.com/badges/3d792a25-00f2-4c61-b9ad-7d2b65d383d2/public_url)
