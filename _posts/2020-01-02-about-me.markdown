@@ -8,5 +8,6 @@ img: how-to-start.jpg # Add image post (optional)
 ---
 ### Find My CV here:
 
-![cv]({{site.baseurl}}/assets/Yogendracv.pdf)
+![cv]({{site.url}}/assets/Yogendracv.pdf)
 
+![Macbook]({{site.baseurl}}/assets/img/battle.jpeg)
