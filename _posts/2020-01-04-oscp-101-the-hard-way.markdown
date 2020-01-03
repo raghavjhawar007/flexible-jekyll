@@ -135,7 +135,8 @@ But Before ending my blog I would like to Thank everyone who supported me throug
 [https://scund00r.com/all/oscp/2018/02/25/passing-oscp.html#interactive-shell](https://scund00r.com/all/oscp/2018/02/25/passing-oscp.html#interactive-shell)
 
 
-### Telegram Group - [https://t.me/OSCP_OSCE](https://t.me/OSCP_OSCE)
+### Telegram Groups - [https://t.me/OSCP_OSCE](https://t.me/OSCP_OSCE),  HackTheBox(which is Private).
+
 
 
 ### Priviledge Escalation and cheat sheets:-
