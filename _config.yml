@@ -18,7 +18,7 @@ social-email: yogendra.swaroop.srivastava@gmail.com # add your Email address
 
 # Disqus
 #discus-identifier: mr-brown # add your discus identifier
-
+future: true
 # Tracker
 #analytics: # Google Analytics
 
