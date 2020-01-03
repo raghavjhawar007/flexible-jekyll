@@ -117,7 +117,7 @@ Finally , I got my Results . I got a mail from offensive security in the morni
 Finally, I have tried to include every possible meaningful experience of mine and the challenges I faced in this journey.
 But Before ending my blog I would like to Thank everyone who supported me throughout.
 
-> Special Mentions - My whole family(Papa,Mummy,Bhabhi,Di,Specially Ajay Bhaiya for trusting me that I can do it in a month) , Prakhar Prasad Bhaiya(For being available even at midnight), Pushkar Bhaiya, Pulkit Bhaiya, Dhanajay Bhaiya, Anjana and many more.
+> Special Mentions - My whole family(Papa,Mummy,Bhabhi,Di,Specially Ajay Bhaiya for trusting me that I can do it in a month) , Prakhar Prasad Bhaiya(For being available even at midnight), Pushkar Bhaiya, Pulkit Bhaiya, Dhanajay Bhaiya, Anjana,Raghav Jhawar(for being there to motivate me), and many more.
 
 
 ### Important Links-:
