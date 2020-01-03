@@ -96,8 +96,8 @@ After you have send your report Just Relax and Wait for your results.
 
 ### Basic Takeaways from here:-
 
-> 1. Read Exam Guide carefully
-> 2. Highlight and mark every important details like flags, IP address, terminal commands and the like.
+* 1. Read Exam Guide carefully
+* 2. Highlight and mark every important details like flags, IP address, terminal commands and the like.
 Finally , I got my Results . I got a mail from offensive security in the morning 4:26am. I had literally woke everyone up. I called everyone at 5 itself. For a moment I could not actually believe that I have got my results.Well, Everything went well.I would like to Thank offensive security team for this amazing course.
 
 ![Macbook]({{site.baseurl}}/assets/img/index.jpeg){: .center-image }
