@@ -92,9 +92,10 @@ Frankly speaking, I was not afraid even a day before, but on the exam day I was 
 
 You have done your exam, you have rooted required machines. Now what? OffSec gives you 24hrs to complete your report. Report is the most important part. I spent around 5–6hours to complete my report with proper proof of concepts. Please make sure you have attached every flags along with IP addresses showing that you have got access of right target machine. Highlight every important details in the report and also make sure You have written terminal commands(if any like running exploits, generating Shellcode). The most important point before sending your report is read the EXAM GUIDE carefully. Proper zipping and password protection is needed before sending your report.
 After you have send your report Just Relax and Wait for your results.
-Basic Takeaways from here:-
-1. Read Exam Guide carefully
-2. Highlight and mark every important details like flags, IP address, terminal commands and the like.
+
+### Basic Takeaways from here:-
+> 1. Read Exam Guide carefully
+> 2. Highlight and mark every important details like flags, IP address, terminal commands and the like.
 Finally , I got my Results . I got a mail from offensive security in the morning 4:26am. I had literally woke everyone up. I called everyone at 5 itself. For a moment I could not actually believe that I have got my results.Well, Everything went well.I would like to Thank offensive security team for this amazing course.
 
 ![Macbook]({{site.baseurl}}/assets/img/index.jpeg){: .center-image }
