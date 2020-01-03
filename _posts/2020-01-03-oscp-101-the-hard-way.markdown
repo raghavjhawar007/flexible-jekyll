@@ -9,12 +9,13 @@ tags: [OSCP,Security,Pentesting,InfoSec]
 ---
 
 First of all thank you for coming here. This Blog post is about My experience in OSCP Journey. What all did I learn, Doing Hard work plus smart work, Trying Harder.
+
 I will be dividing this post into four sections- PRE Enrollment, POST Enrollment, mid time of labs and exam, Exam. 
 
-Pre-enrollment would be all about what you should do before taking up the labs, how you should prepare for OSCP Labs.
-Post-Enrollment would be all about OSCP labs and exam preparations and keeping your cheatsheets ready.
-Time between lab ends and Exam - What you should do when the labs has ended and your exam is a week later.
-Exam Day- For what all challenges you should be prepared for.
+* Pre-enrollment would be all about what you should do before taking up the labs, how you should prepare for OSCP Labs.
+* Post-Enrollment would be all about OSCP labs and exam preparations and keeping your cheatsheets ready.
+* Time between lab ends and Exam - What you should do when the labs has ended and your exam is a week later.
+* Exam Day- For what all challenges you should be prepared for.
 
 ![Macbook]({{site.baseurl}}/assets/img/battle.jpeg){: .center-image }
 
@@ -22,6 +23,7 @@ Exam Day- For what all challenges you should be prepared for.
 ### Pre-Enrollment: {: .text-center} 
 
 I started to work for OSCP somewhere in May-June. To tell you about my basic knowledge, I was a noob when I started my journey though now also i consider myself a noob. I was learning then, I am learning now ,I ll do the same in future too. So, I had basic understanding of Networks,Linux, Python and also I knew about web application security. So was that enough to get directly enrolled to OSCP Labs?
+
 I read couple of blogs(which I am gonna attach in the links section and I highly recommend reading those). I started with VULNHUB's OSCP like machines. Well It was not easy for me because I didn't know the methodology and what  "Enumeration is the Key" is all about. I faced lot of issues, had to see every machines walkthroughs. But after 3–4 machines of Vulnhub, I was little comfortable with the process- the Methodology. After a week or two, I started from HTB, well it was not at all easy and I highly recommend people preparing for OSCP should go for HackTheBox. I Struggled in few machines but atleast I knew by then how should I approach, what will I do when I come across certain kind of situation. Still, One thing was missing- Confidence, I was lacking confidence whether I would be able to crack OSCP or not. By further working on the same, I started watching IPPSEC videos(and that I think if I had done that earlier It would have been more easy for me or if not easy then the process of pentesting would be clear.) After Watching his videos of OSCP playlist, I made my notes and I knew my weapons are getting ready. But Still I was missing something about which I had no Knowledge- our very own- Buffer Overflow. I was so afraid with the buffer overflow that I thought I would not do Buffer overflow machine in the exam. But everything is a mind game, Just know that mind works how you want it to work. I started searching for Buffer Overflow Blogs , videos, courses but nothing seemed working because I was facing issues to understand registers of assembly language(don't worry, it was my bad because Buffer Overflow is basic in OSCP). I locked myself in the house for three days and studied Assembly Language, Registers and Buffer Overflow, 4th day I had no doubts on Buffer Overflow. You can get clear Buffer Overflow machine in less than 1 hour.
 Also, I didn't want to leave anything untouched before taking labs. I tried understanding the concepts of Port Knocking,Pivoting, Port forwarding but you cannot understand anything unless you practice it couple of times. I read couple of blogs and followed them for Privilege Escalation in Linux and Window, to clear the approach. I had few tools ready too for privilege escalation which helped me a lot in my labs. 
 
@@ -43,7 +45,9 @@ Remember one thing, "Every Battle is won before it is fought". How you prepare f
 ### Post-Enrollment:{: .text-center}
 
 One month before Enrolling, I worked to prepare myself for the labs. I took a short break, Enjoyed with my friends a little and Now it was time to enroll for this giant and expensive course. Mostly People advised me to go for atleast two months lab access. But Hey, I am a warrior(as Zakir Khan said- Bhai Tumhara Warrior hai),After discussing with my brother( Because he had cleared OSCP in 2013 when No HTB , vulnhub and Ippsec's page existed, He is a legend) and also with few legends in InfoSec, I decided to go for one month because I wanted to challenge myself this time. I enrolled and I got lab access on 18th August. I quickly finished the lab videos and pdf. I jumped into the labs. Well, I was not able to pawn even a single machine by the evening. I took a short break and came back, I rooted 2 machines in next few hours. I was happy. I made a prime target of rooting atleast two machines everyday for the first week and trying atleast 3 machines every day. I divided my slot of 5–5hours, and then I fell sick because I had left everything and was spending too much time on the terminal.Even after falling sick I was still trying to pawn machines. After 2 days I was okay. I started again and now working smartly i.e keeping health and labs balanced. I had rooted 15 boxes in very first week and that was quite a good progress.
+
 Here, I would suggest that setting short targets are better, and in the labs you should know one day before that what machines you are going to try the next day.
+
 My Target for 2nd week was to do 1 boxes every day because now boxes which will come would be little tricky. I completed my targeted, then my family visited me and I took a break for around 5 days. I started again and this time with more enthusiasm and I decided that I will try to do Big 4 boxes before my lab ends. I did three of them. The most frightening part on this journey was Windows Privilege Escalation and frankly speaking there are not much machines in the labs where you will learn privilege escalation of windows, In most machines you'll directly get privileges of the Administrator. So I decided to go through few blogs . My Lab ended on 17th September and I was able to root 35 machines in 25days. I scheduled my exam for 24th September at 2:30pm. That was a great experience, I knew my weapons, was clear with my methodology and also I was clear with my next target. I went through Ippsec videos , notes and buffer overflow.
 
 Also, Make Sure you do Post Exploitation while rooting the machines because I didn't do Post Exploitation in my first week so I had to do all the machines again and complete post expoitation, that took another two days.
@@ -92,8 +96,8 @@ Frankly speaking, I was not afraid even a day before, but on the exam day I was 
 
 You have done your exam, you have rooted required machines. Now what? OffSec gives you 24hrs to complete your report. Report is the most important part. I spent around 5–6hours to complete my report with proper proof of concepts. Please make sure you have attached every flags along with IP addresses showing that you have got access of right target machine. Highlight every important details in the report and also make sure You have written terminal commands(if any like running exploits, generating Shellcode). The most important point before sending your report is read the EXAM GUIDE carefully. Proper zipping and password protection is needed before sending your report.
 
-After you have send your report Just Relax and Wait for your results.
 
+After you have send your report Just Relax and Wait for your results.
 
 
 ### Basic Takeaways from here:-
