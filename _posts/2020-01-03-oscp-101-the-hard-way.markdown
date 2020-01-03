@@ -20,7 +20,7 @@ I will be dividing this post into four sections- PRE Enrollment, POST Enrollment
 ![Macbook]({{site.baseurl}}/assets/img/battle.jpeg){: .center-image }
 
 
-### Pre-Enrollment: {: .text-center} 
+### Pre-Enrollment:  
 
 I started to work for OSCP somewhere in May-June. To tell you about my basic knowledge, I was a noob when I started my journey though now also i consider myself a noob. I was learning then, I am learning now ,I ll do the same in future too. So, I had basic understanding of Networks,Linux, Python and also I knew about web application security. So was that enough to get directly enrolled to OSCP Labs?
 
@@ -42,7 +42,7 @@ By now, I knew that "Enumeration is the key", "Google is always your best friend
 Remember one thing, "Every Battle is won before it is fought". How you prepare for your goals is most important thing.
 
 
-### Post-Enrollment:{: .text-center}
+### Post-Enrollment:
 
 One month before Enrolling, I worked to prepare myself for the labs. I took a short break, Enjoyed with my friends a little and Now it was time to enroll for this giant and expensive course. Mostly People advised me to go for atleast two months lab access. But Hey, I am a warrior(as Zakir Khan said- Bhai Tumhara Warrior hai),After discussing with my brother( Because he had cleared OSCP in 2013 when No HTB , vulnhub and Ippsec's page existed, He is a legend) and also with few legends in InfoSec, I decided to go for one month because I wanted to challenge myself this time. I enrolled and I got lab access on 18th August. I quickly finished the lab videos and pdf. I jumped into the labs. Well, I was not able to pawn even a single machine by the evening. I took a short break and came back, I rooted 2 machines in next few hours. I was happy. I made a prime target of rooting atleast two machines everyday for the first week and trying atleast 3 machines every day. I divided my slot of 5–5hours, and then I fell sick because I had left everything and was spending too much time on the terminal.Even after falling sick I was still trying to pawn machines. After 2 days I was okay. I started again and now working smartly i.e keeping health and labs balanced. I had rooted 15 boxes in very first week and that was quite a good progress.
 
@@ -59,7 +59,7 @@ I did Use metasploit on few machines but I just marked them and when My lab was 
 
 What you should do in Post Exploitation is Save- Hashdumps, shadow+passwd file, arp and route history, Mail if any,Password of any new user you found in any machine.
 
-### Total Machines Rooted in 25days  - 35, Networks Unlocked- 2{: .text-center}
+### Total Machines Rooted in 25days  - 35, Networks Unlocked- 2
 
 ### Basic Takeaway-:
 1. Set Short Goals(per week wise)
@@ -71,14 +71,14 @@ What you should do in Post Exploitation is Save- Hashdumps, shadow+passwd file, 
 The basic Takeaway from above is just be clear with your goals. Set Small small targets and don't think about next week, just complete this week first. Setting a small and achievable target is the key here. Stay motivated by reading blogs.
 
 
-### The Time Before Exam and After Labs-:{: .text-center}
+### The Time Before Exam and After Labs-:
 
 I had completed my labs with great count of machines pawned. I scheduled my exam a week after. I planned this week of mine in such a way that I relax also and revise my notes too, including practicing buffer overflow. I planned to do Buffer Overflow everyday and my final goal was to complete buffer overflow in less than 15 mins when I was practicing, the reason to this was since there were not much BadChars present in the vulnerable applications I found online. The idea behind doing this was I wanted to keep atleast 5–10mins in exam for BadChars. By the end of the week, I was able to complete buffer overflow in 12mins and that was quite great. I revised all my notes I had made since last two months(i.e Notes from Pre Enrollment and also from Post). I went through IPPSEC's OSCP playlist again and saw few VulnHub machine's walkthrough along with Privilege escalation blogs. Finally, I stopped my studies two days before exam and enjoyed those two days like anything.
 
 ![Macbook]({{site.baseurl}}/assets/img/keep-calm.png){: .center-image }
 
 
-### The Big Day- The Exam:{: .text-center}
+### The Big Day- The Exam:
 
 Frankly speaking, I was not afraid even a day before, but on the exam day I was hell lot afraid. Everyone around me motivated me a lot still nothing seemed to work, but I knew I had worked hard in my labs so whatever happens I was ready. I set my short target (as always) to do 2 machines(i.e Buffer Overflow and 10mark) before 5pm. My exam started at 2:45 after the setup and everything. I jumped into Buffer Overflow also Running few scans in the background for other machines. I took proper screenshots of each steps and Noted my points( I highly recommend using cherrytree for penning down your notes because it makes your work easy). I finished my buffer overflow in 25–30mins. I was happy and motivated. Also I had thought I would Not close any terminal windows(which is a good practice one should do or Use TERMINATOR in Linux) in case I forget to take any screenshot of terminal commands I would refer while making report. But not always your strategy works, and this time my laptop Hanged, which was not at all expected because I had given 8gb ram to my Kali Linux  host. I quickly hard rebooted my laptop but I had lost all my terminal commands. I started my scans again and the 10marks machines irritated me a lot. I was doing everything correctly but I was getting some errors. It was 5:10 but I was not able to achieve my target. I decided to go for 20marks, but again some errors which was not expected. I quickly switched to OffSec VM(Please Use OffSec's VM else you will also face some issues like SSL errors and others). I was able to root both my 20marks machines before 7:30. So by now, I had 65 marks in my hand. I again Started 10marks Machine, this time on OffSec VM, and I completed my machine this time. Huh, I had passed my exam by 8:30 with proper breaks in Between. I took a long break for dinner but I ran my recon scans so that When I am back I could just jump into exploitation part. At 12:30, I got user shell of that 25marks machine. I Enumerated but failed to escalate the privileges. I decided to sleep. But for 2 hours I could not sleep. I slept at 3 then at 6:30 my father called me(because He was expecting me that I will be awake by now..Lol). I had already decided to sleep ignoring my alarm like anything. But I woke up at 7(which still I think was a big mistake, please have proper sleep of atleast 5–6hrs). I started working on my last Priv Esc again. I tried everything , used everything I knew and but at 12, I was frustated. I called my brother and said I won't be able to do now because It's frustating. I just left my laptop and took a break. I went back but this time I wanted to check all my notes - whether I have taken proper screenshots, Whether I have taken proper flags with IP addresses, Checked my url links in the screenshots so that I am sure that my report Would not trouble my progress.
  At 2:15, my exam ended and I was happy that I had rooted 4.5 machines. Now it was time for the report.
