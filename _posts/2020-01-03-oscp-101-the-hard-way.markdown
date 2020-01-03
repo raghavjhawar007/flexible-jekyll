@@ -84,13 +84,13 @@ Frankly speaking, I was not afraid even a day before, but on the exam day I was 
  At 2:15, my exam ended and I was happy that I had rooted 4.5 machines. Now it was time for the report.
 
 ### Takeaways from here:-
-1. Don't Panic,Stay Calm and Trust Your preparation.
-2. Take Proper Screenshots with flags and IP address.
-3. Set small targets i.e Divide your 24hrs in such a way that you don't get stuck a lot on one machine for too long.
-4. Take Regular Breaks.
-5. Check Your Screenshots 1hr before ending your exam.
-6. Try Not to close terminal windows.
-7. Try Harder and Try again.
+* Don't Panic,Stay Calm and Trust Your preparation.
+* Take Proper Screenshots with flags and IP address.
+* Set small targets i.e Divide your 24hrs in such a way that you don't get stuck a lot on one machine for too long.
+* Take Regular Breaks.
+* Check Your Screenshots 1hr before ending your exam.
+* Try Not to close terminal windows.
+* Try Harder and Try again.
 
 ### The Report:-
 
@@ -102,8 +102,8 @@ After you have send your report Just Relax and Wait for your results.
 
 ### Basic Takeaways from here:-
 
-* 1. Read Exam Guide carefully
-* 2. Highlight and mark every important details like flags, IP address, terminal commands and the like.
+*  Read Exam Guide carefully
+*  Highlight and mark every important details like flags, IP address, terminal commands and the like.
 Finally , I got my Results . I got a mail from offensive security in the morning 4:26am. I had literally woke everyone up. I called everyone at 5 itself. For a moment I could not actually believe that I have got my results.Well, Everything went well.I would like to Thank offensive security team for this amazing course.
 
 ![Macbook]({{site.baseurl}}/assets/img/index.jpeg){: .center-image }
