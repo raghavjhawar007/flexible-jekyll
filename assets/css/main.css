@@ -35,8 +35,8 @@ nav,
 section {
   display: block;
 }
-.text-centre {
-text-align: centre;
+.text-center {
+text-align: center;
 }
 
 /**
