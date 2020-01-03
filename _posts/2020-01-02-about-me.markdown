@@ -8,5 +8,5 @@ img: how-to-start.jpg # Add image post (optional)
 ---
 ### Find My CV here:
 
-![CV]({{ site.baseurl }}/assets/Yogendracv.pdf)
+[CV]({{site.url}}/assets/Yogendracv.pdf)
 
