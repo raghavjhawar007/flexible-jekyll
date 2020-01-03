@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OSCP 101- The Hard Way
-date: 2020-01-03
+date: 2020-01-04
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: oscp-certs.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
