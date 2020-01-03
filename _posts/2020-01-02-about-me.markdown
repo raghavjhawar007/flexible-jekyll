@@ -6,4 +6,7 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: how-to-start.jpg # Add image post (optional)
 
 ---
-About Me
+### Find My CV here:
+
+[cv]({{ site.url }}/assets/Yogendracv.pdf
+
