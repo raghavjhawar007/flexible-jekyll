@@ -13,8 +13,10 @@ layout: main
     <span class="post-date">{{post.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
     <span class="post-words">{% capture words %}{{ post.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}</span>
   </div>
-  <a class="twitter-timeline" data-width="300" data-height="500" data-theme="dark" href="https://twitter.com/yogendraswaroop?ref_src=twsrc%5Etfw">Tweets by yogendraswaroop</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  
 </article>
+
 {% endfor %}
+<a class="twitter-timeline" data-width="300" data-height="500" data-theme="dark" href="https://twitter.com/yogendraswaroop?ref_src=twsrc%5Etfw">Tweets by yogendraswaroop</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 {% include pagination.html %}
