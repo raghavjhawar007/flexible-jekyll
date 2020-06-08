@@ -171,7 +171,7 @@ Web Cache Poisoning, Server Side Template Injection, CORS Misconfiguration, HTTP
 
 > Portswigger is one of the best resources which I could mention right now for the above mentioned advanced vulnerabilities.
 
-![Macbook]({{site.baseurl}}/assets/img/practice.jpg){: .center-image max-width="200" }
+![Macbook]({{site.baseurl}}/assets/img/practice.jpg){: .center-image max-width="100" }
 
 ### More sites to practice:-
 There are plenty of websites online currently which has got great challenges to practice. Few of them are-:
