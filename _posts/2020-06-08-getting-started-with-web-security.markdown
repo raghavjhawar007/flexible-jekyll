@@ -82,9 +82,11 @@ The most common and most critical vulnerability which exists till date. With SQL
 ### Resources-:
 
 1. SQLi Labs by AudiSec-: This is one of the best and in-depth resources that have got me to understand the SQL injection in depth. It has got Labs with around more than 75 challenges. Starting from Error Based SQLi and covering all tracks in SQLi like Blind, Time Based, Second Order SQLi, you name and you get everything here.
+
 Link: [https://github.com/Audi-1/sqli-labs](https://github.com/Audi-1/sqli-labs)
 
 2. SecurityIdiots-
+
 Link-: [http://www.securityidiots.com/](http://www.securityidiots.com/)
        [http://leettime.net/sqlninja.com/](http://leettime.net/sqlninja.com/)
 
@@ -94,17 +96,23 @@ Link-: [http://www.securityidiots.com/](http://www.securityidiots.com/)
 CSRF is reported less nowadays due to the introduction of frameworks like Django. It was A7 in OWASP Top 10 2013.
 
 Resources-
+
 1. Troy Hunt - [https://www.troyhunt.com/understanding-csrf-video-tutorial/](https://www.troyhunt.com/understanding-csrf-video-tutorial/)
+
 2. Link: [https://docs.spring.io/spring-security/site/docs/5.0.x/reference/html/csrf.html](https://docs.spring.io/spring-security/site/docs/5.0.x/reference/html/csrf.html)
 
 ### IDOR-: Insecure Direct Object Reference.
+
 Resources:
+
 1. [https://www.bugcrowd.com/blog/how-to-find-idor-insecure-direct-object-reference-vulnerabilities-for-large-bounty-rewards/](https://www.bugcrowd.com/blog/how-to-find-idor-insecure-direct-object-reference-vulnerabilities-for-large-bounty-rewards/)
+
 
 2. [https://blog.detectify.com/2016/05/25/owasp-top-10-insecure-direct-object-reference-4/](https://blog.detectify.com/2016/05/25/owasp-top-10-insecure-direct-object-reference-4/)
 
 
 ### Other Basic Vulnerabilities-:
+
 1. Local File Inclusion/Remote File Inclusion
 2. OS Command Injection
 3. Privilege Escalation
@@ -152,6 +160,7 @@ The vulnerability found by Orange Tsai and was presented in BlackHat. A critical
 
 
 ### Other Advanced Vulnerabilities-:
+
 Web Cache Poisoning, Server Side Template Injection, CORS Misconfiguration, HTTP Request Smuggling.
 
 > Portswigger is one of the best resources which I could mention right now for the above mentioned advanced vulnerabilities.
@@ -165,21 +174,27 @@ There are plenty of websites online currently which has got great challenges to 
 
 ### Importance of Python-:
 Python is the most popular programming language amongst security researchers and also my favorite language. I strongly recommend every beginner to at least get basic hands-on experience in Python. I started learning python once I had decided to be in Security. HackerRank is the best place to solve Python challenges which will also help you to know various functions of python and also it is going to help you sharpen your logical skills. Python will help you to automate tasks which might be useful when you are doing Bug bounties.
+
 ### Books for Python-:
+
 1. Python- The Hard Way
 2. Automating the boring stuff with Python.
 
 If you are not a reader but like to watch videos, you can also go through the online Courses like:-
+
 1. Python for security professional on Cybrary
 2. Python for Security on Pentester Academy.
+
 There are a few more development focussed courses on Udemy which will help you to understand Python in depth.
 
 I have tried to mention every resource and link which has helped me to get started with Web Application Security. Your Googling skills will help you a lot with security. If you wish you can google and can easily get more resources to learn. 
 After you have got the basics clear and good understanding of the vulnerabilities, you should put your knowledge to practice in real-time. I strongly recommend starting with Bug bounties. With Bug bounties, you face real-time challenges and once you get used to bug bounties there is no looking back. I would also Recommend following Hacktivities, follow the best hackers on Twitter/LinkedIn. Make this a habit to go through your twitter feed every day. You should start reading Hackerone publicly disclosed reports.
 To find Hackerone publicly Disclosed reports-: [http://h1.nobbd.de/](http://h1.nobbd.de/)
+
 You can also follow a few telegram channel which will update you with the latest emerging bugs and technologies.
 
 ### Books for Bug hunting-:
+
 1. Web Hacking 101 by Peter Yaworski
 2. Real World Bug Hunting by Peter Yaworski.
 
