@@ -219,6 +219,8 @@ You can also follow a few telegram channel which will update you with the latest
 
 > One more important thing which I would like to mention is to "Be Patient". You will not learn everything overnight, it will take you months. Start Slowly but learn the hard way.
 
+![Macbook]({{site.baseurl}}/assets/img/doit.jpg){: .center-image }
+
 This is all from my side for this blog. If you like the blog please do share. 
 ### Thank you again for coming here.
 Feel free to connect with me on Twitter and LinkedIn.
