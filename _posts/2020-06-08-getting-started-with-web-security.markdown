@@ -66,18 +66,20 @@ The blogs on the website had helped me a lot in understanding the basics of XSS,
 
 2. Ashar Javed's XSS Youtube videos-:
 
-Links-: 
+      Links-: 
 
-[https://www.youtube.com/watch?v=TKn5qdti66c&t=3364s](https://www.youtube.com/watch?v=TKn5qdti66c&t=3364s)
+      [https://www.youtube.com/watch?v=TKn5qdti66c&t=3364s](https://www.youtube.com/watch?v=TKn5qdti66c&t=3364s)
 
-[https://www.youtube.com/watch?v=LLtOJNeMp7c](https://www.youtube.com/watch?v=LLtOJNeMp7c)
+      [https://www.youtube.com/watch?v=LLtOJNeMp7c](https://www.youtube.com/watch?v=LLtOJNeMp7c)
 
-He is one of the great researchers who has done lots of research on XSS. I strongly recommend going through his videos.
+      He is one of the great researchers who has done lots of research on XSS. I strongly recommend going through his videos.
 
 3. Ajin Abraham XSS course from Udemy:
+
 He is one of the most well known and finest researchers. If by chance you have an idea of Malware Analysis, MobSF- a very famous tool is one of its research. Though his course on Udemy is paid but it is worth taking.
 
 4. SecurityIdiots.
+
 Link: [http://www.securityidiots.com/](http://www.securityidiots.com/)
 
 ### Links to Practice XSS-:
