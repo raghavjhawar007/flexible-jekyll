@@ -25,7 +25,10 @@ When you are done with the basics of web development and once you will study Web
 ### How I started: 
 I had prior knowledge of Java Programming because I had learned in my school times. I did Python coding for a few months too so learning Languages like PHP was not much trouble for me. In August 2017, I started learning basic Web development. I followed lots of resources and courses from Udemy and another training website. After 2 months of proper Web Development, I was able to develop a website using PHP, MySQL, Javascript. I also learned a few basics of MongoDB, NodeJS, Jquery, Bootstrap. I was more or less now comfortable with Web Development. I took a project of my cousin to develop a website. I developed a website from Scratch using everything I had learned in my early stages.
 > Link to the website-: [http://researcheers.com](http://researcheers.com)
+
+
 The website got up in February 2018. The website which I had developed was missing the most important part i.e Security. But by then I didn't know anything about Web Application Security. 
+
 Can you guess My next target?
 
 ### Time to Get started with Web Application Security.
