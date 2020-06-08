@@ -118,8 +118,11 @@ When you do hands-on, you will get better exposure to every vulnerability. I str
 
 ### 1. XXE attack- 
 The most important and critical bugs reported these days and which eventually leads to a great bounty amount.
+
 But before starting with XXE attacks, you should have basic knowledge of XML and its components like DTDs. 
+
 At first, this vulnerability has troubled me a lot to understand, but the Modern Web Penetration Testing book helped me to understand the vulnerability and its impact. The book gave me a clear understanding of the XXE attacks.
+
 For Labs, I followed PortSwigger, which gave me confidence.
 
 ### 2. SSRF -Server Side Request Forgery.
@@ -128,7 +131,9 @@ The vulnerability found by Orange Tsai and was presented in BlackHat. A critical
 ### Resources-:
 1. Portswigger
 2. Modern Web Penetration Testing by Prakhar Prasad.
+
 3.Links-:
+
  a. [https://medium.com/poka-techblog/server-side-request-forgery-ssrf-attacks-part-1-the-basics-a42ba5cc244a](https://medium.com/poka-techblog/server-side-request-forgery-ssrf-attacks-part-1-the-basics-a42ba5cc244a)
  
  b. [https://medium.com/@madrobot/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-1-29d034c27978](https://medium.com/@madrobot/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-1-29d034c27978)
