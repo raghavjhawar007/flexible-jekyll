@@ -61,10 +61,15 @@ I would like to Mention Few Resources(Vulnerability wise) which I followed and w
 Cross-Site Scripting is one of the most well-known vulnerabilities in Web Application Security, and also expected by every security researcher to have good command over it. 
 ### Resources:-
 1. BruteLogic Blogs- [https://brutelogic.com.br/blog/](https://brutelogic.com.br/blog/)
+
 The blogs on the website had helped me a lot in understanding the basics of XSS, its context, and its exploitability.
+
 2. Ashar Javed's XSS Youtube videos-:
+
 Links-: 
+
 [https://www.youtube.com/watch?v=TKn5qdti66c&t=3364s](https://www.youtube.com/watch?v=TKn5qdti66c&t=3364s)
+
 [https://www.youtube.com/watch?v=LLtOJNeMp7c](https://www.youtube.com/watch?v=LLtOJNeMp7c)
 
 He is one of the great researchers who has done lots of research on XSS. I strongly recommend going through his videos.
