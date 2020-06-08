@@ -15,6 +15,7 @@ First of all, I would like to thank you for coming here. This Blog is mainly foc
 
 I have heard many of them saying that you don't really need Development knowledge to get started with security. But, this is just partially true. I believe if you can code, you can break too, and that is how you learn security the hard way.
 Web Application Security mainly comprises of Web Application Vulnerabilities which is exploited by an attacker mostly when there is a mistake in the developer's code.
+![Macbook]({{site.baseurl}}/assets/img/dev.png){: .center-image }
 
 ### Pre-requisite to get started into Web Application Security.
 
@@ -32,6 +33,8 @@ The website got up in February 2018. The website which I had developed was missi
 Can you guess My next target?
 
 ### Time to Get started with Web Application Security.
+
+![Macbook]({{site.baseurl}}/assets/img/party.jfif){: .center-image }
 
 I started with a few free resources at first. I just took the overview of Basic vulnerabilities for a few weeks. 
 OWASP Top 10- When you are getting into Web Application Security, you need to thoroughly know about Owasp top 10 asked in almost every security interview.
@@ -77,6 +80,9 @@ Link: [http://www.securityidiots.com/](http://www.securityidiots.com/)
 2. [https://xss-game.appspot.com/](https://xss-game.appspot.com/)
 
 ### SQL Injection:-
+
+![Macbook]({{site.baseurl}}/assets/img/sqli.jfif){: .center-image }
+
 The most common and most critical vulnerability which exists till date. With SQLi, your entire database is at stake.
 
 ### Resources-:
@@ -165,6 +171,7 @@ Web Cache Poisoning, Server Side Template Injection, CORS Misconfiguration, HTTP
 
 > Portswigger is one of the best resources which I could mention right now for the above mentioned advanced vulnerabilities.
 
+![Macbook]({{site.baseurl}}/assets/img/practice.jpg){: .center-image }
 
 ### More sites to practice:-
 There are plenty of websites online currently which has got great challenges to practice. Few of them are-:
@@ -173,7 +180,10 @@ There are plenty of websites online currently which has got great challenges to 
 3. Hackthebox
 
 ### Importance of Python-:
+
 Python is the most popular programming language amongst security researchers and also my favorite language. I strongly recommend every beginner to at least get basic hands-on experience in Python. I started learning python once I had decided to be in Security. HackerRank is the best place to solve Python challenges which will also help you to know various functions of python and also it is going to help you sharpen your logical skills. Python will help you to automate tasks which might be useful when you are doing Bug bounties.
+
+![Macbook]({{site.baseurl}}/assets/img/lazy.jfif){: .center-image }
 
 ### Books for Python-:
 
@@ -187,6 +197,8 @@ If you are not a reader but like to watch videos, you can also go through the on
 
 There are a few more development focussed courses on Udemy which will help you to understand Python in depth.
 
+![Macbook]({{site.baseurl}}/assets/img/python.jpg){: .center-image }
+
 I have tried to mention every resource and link which has helped me to get started with Web Application Security. Your Googling skills will help you a lot with security. If you wish you can google and can easily get more resources to learn. 
 After you have got the basics clear and good understanding of the vulnerabilities, you should put your knowledge to practice in real-time. I strongly recommend starting with Bug bounties. With Bug bounties, you face real-time challenges and once you get used to bug bounties there is no looking back. I would also Recommend following Hacktivities, follow the best hackers on Twitter/LinkedIn. Make this a habit to go through your twitter feed every day. You should start reading Hackerone publicly disclosed reports.
 To find Hackerone publicly Disclosed reports-: [http://h1.nobbd.de/](http://h1.nobbd.de/)
@@ -197,6 +209,8 @@ You can also follow a few telegram channel which will update you with the latest
 
 1. Web Hacking 101 by Peter Yaworski
 2. Real World Bug Hunting by Peter Yaworski.
+
+![Macbook]({{site.baseurl}}/assets/img/bb.jfif){: .center-image }
 
 > One more important thing which I would like to mention is to "Be Patient". You will not learn everything overnight, it will take you months. Start Slowly but learn the hard way.
 
