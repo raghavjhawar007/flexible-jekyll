@@ -132,7 +132,7 @@ The vulnerability found by Orange Tsai and was presented in BlackHat. A critical
 1. Portswigger
 2. Modern Web Penetration Testing by Prakhar Prasad.
 
-3.Links-:
+3. Links-:
 
  a. [https://medium.com/poka-techblog/server-side-request-forgery-ssrf-attacks-part-1-the-basics-a42ba5cc244a](https://medium.com/poka-techblog/server-side-request-forgery-ssrf-attacks-part-1-the-basics-a42ba5cc244a)
  
