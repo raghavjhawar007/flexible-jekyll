@@ -60,11 +60,11 @@ I would like to Mention Few Resources(Vulnerability wise) which I followed and w
 ### XSS-: 
 Cross-Site Scripting is one of the most well-known vulnerabilities in Web Application Security, and also expected by every security researcher to have good command over it. 
 ### Resources:-
-1. BruteLogic Blogs- [https://brutelogic.com.br/blog/](https://brutelogic.com.br/blog/)
+ 1. BruteLogic Blogs- [https://brutelogic.com.br/blog/](https://brutelogic.com.br/blog/)
 
-The blogs on the website had helped me a lot in understanding the basics of XSS, its context, and its exploitability.
+   The blogs on the website had helped me a lot in understanding the basics of XSS, its context, and its exploitability.
 
-2. Ashar Javed's XSS Youtube videos-:
+ 2. Ashar Javed's XSS Youtube videos-:
 
       Links-: 
 
@@ -74,13 +74,13 @@ The blogs on the website had helped me a lot in understanding the basics of XSS,
 
       He is one of the great researchers who has done lots of research on XSS. I strongly recommend going through his videos.
 
-3. Ajin Abraham XSS course from Udemy:
+ 3. Ajin Abraham XSS course from Udemy:
 
-He is one of the most well known and finest researchers. If by chance you have an idea of Malware Analysis, MobSF- a very famous tool is one of its research. Though his course on Udemy is paid but it is worth taking.
+    He is one of the most well known and finest researchers. If by chance you have an idea of Malware Analysis, MobSF- a very famous tool is one of its research. Though his course on Udemy is paid but it is worth taking.
 
-4. SecurityIdiots.
+ 4. SecurityIdiots.
 
-Link: [http://www.securityidiots.com/](http://www.securityidiots.com/)
+     Link: [http://www.securityidiots.com/](http://www.securityidiots.com/)
 
 ### Links to Practice XSS-:
 1. [https://xss-quiz.int21h.jp/](https://xss-quiz.int21h.jp/)
