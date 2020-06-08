@@ -46,7 +46,9 @@ I took around 1.5 months to complete all the basic vulnerabilities.
 > Web Application Hacker's Handbook(WAHH) - This is called the Bible for those who are just getting started with Web Security Academy.
 
 > Owasp Testing Guide.
-> Modern Web Penetration Testing by Prakhar Prasad-: If you have got your basics clear and you want to study little extra and advanced stuff, then this is the book for you. Very Well documented and also the author has shared a few test cases to help you understand the Vulnerability in more depth. This is the only book that I keep in my backpack always.
+
+> Modern Web Penetration Testing by Prakhar Prasad-: 
+If you have got your basics clear and you want to study little extra and advanced stuff, then this is the book for you. Very Well documented and also the author has shared a few test cases to help you understand the Vulnerability in more depth. This is the only book that I keep in my backpack always.
 
 ### The above-mentioned resources are must read and one of the most recommended guides to get started. Please consider this first before going through the below-mentioned resources.
 
