@@ -96,12 +96,12 @@ The most common and most critical vulnerability which exists till date. With SQL
 
 1. SQLi Labs by AudiSec-: This is one of the best and in-depth resources that have got me to understand the SQL injection in depth. It has got Labs with around more than 75 challenges. Starting from Error Based SQLi and covering all tracks in SQLi like Blind, Time Based, Second Order SQLi, you name and you get everything here.
 
-  Link: [https://github.com/Audi-1/sqli-labs](https://github.com/Audi-1/sqli-labs)
+    Link: [https://github.com/Audi-1/sqli-labs](https://github.com/Audi-1/sqli-labs)
 
 2. SecurityIdiots-
 
-  Link-: [http://www.securityidiots.com/](http://www.securityidiots.com/)
-       [http://leettime.net/sqlninja.com/](http://leettime.net/sqlninja.com/)
+    Link-: [http://www.securityidiots.com/](http://www.securityidiots.com/)
+           [http://leettime.net/sqlninja.com/](http://leettime.net/sqlninja.com/)
 
 3. WAHH, Owasp testing guide.
 
