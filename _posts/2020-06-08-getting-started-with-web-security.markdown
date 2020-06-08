@@ -8,7 +8,6 @@ fig-caption: # Add figcaption (optional)
 tags: [Web Application Security,Security,Pentesting,InfoSec]
 ---
 
-### Getting Started with Web Application Security.
 
 First of all, I would like to thank you for coming here. This Blog is mainly focused on the people who are willing to get into Web Application Security. I will be sharing my resources and also my personal Experience from where I started learning Web Application Security.
 
@@ -134,17 +133,17 @@ The vulnerability found by Orange Tsai and was presented in BlackHat. A critical
 
 3. Links-:
 
- a. [https://medium.com/poka-techblog/server-side-request-forgery-ssrf-attacks-part-1-the-basics-a42ba5cc244a](https://medium.com/poka-techblog/server-side-request-forgery-ssrf-attacks-part-1-the-basics-a42ba5cc244a)
+   a. [https://medium.com/poka-techblog/server-side-request-forgery-ssrf-attacks-part-1-the-basics-a42ba5cc244a](https://medium.com/poka-techblog/server-side-request-forgery-ssrf-attacks-part-1-the-basics-a42ba5cc244a)
  
- b. [https://medium.com/@madrobot/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-1-29d034c27978](https://medium.com/@madrobot/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-1-29d034c27978)
+   b. [https://medium.com/@madrobot/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-1-29d034c27978](https://medium.com/@madrobot/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-1-29d034c27978)
 
- c. [https://www.netsparker.com/blog/web-security/server-side-request-forgery-vulnerability-ssrf/](https://www.netsparker.com/blog/web-security/server-side-request-forgery-vulnerability-ssrf/)
+   c. [https://www.netsparker.com/blog/web-security/server-side-request-forgery-vulnerability-ssrf/](https://www.netsparker.com/blog/web-security/server-side-request-forgery-vulnerability-ssrf/)
  
- d. [https://blog.detectify.com/2019/01/10/what-is-server-side-request-forgery-ssrf/](https://blog.detectify.com/2019/01/10/what-is-server-side-request-forgery-ssrf/)
+   d. [https://blog.detectify.com/2019/01/10/what-is-server-side-request-forgery-ssrf/](https://blog.detectify.com/2019/01/10/what-is-server-side-request-forgery-ssrf/)
  
- e. [https://www.acunetix.com/blog/articles/server-side-request-forgery-vulnerability/](https://www.acunetix.com/blog/articles/server-side-request-forgery-vulnerability/)
+   e. [https://www.acunetix.com/blog/articles/server-side-request-forgery-vulnerability/](https://www.acunetix.com/blog/articles/server-side-request-forgery-vulnerability/)
  
- f. [https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf](https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf)
+    f. [https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf](https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf)
 
 
 ### Other Advanced Vulnerabilities-:
